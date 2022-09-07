@@ -1,0 +1,46 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+header {
+  width: 100%;
+  display: flex;
+  position: fixed;
+  justify-content: space-evenly;
+}
+
+header img {
+  width: auto;
+  height: 73px;
+  margin-top: -7px;
+  margin-right: 24px;
+}
+
+.banner {
+  display: flex;
+  list-style: none;
+}
+
+.language {
+  display: flex;
+  list-style: none;
+}
+
+header nav {
+  display: flex;
+}
+
+header nav ul li a {
+  padding: 12px;
+  text-decoration: none;
+  color: #4e5968;
+}
+
+header nav ul li {
+  padding: 8px;
+  height: 100%;
+  align-items: center;
+  color: #4e5968;
+}
