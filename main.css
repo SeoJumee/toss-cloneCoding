@@ -85,6 +85,8 @@ section h1 {
   display: inline-flex;
   padding: 18px 28px;
   background-color: rgba(0, 0, 0, 0.7);
+  color: #ffffff;
+  text-decoration: none;
   position: absolute;
   top: 47%;
   left: 45%;
@@ -115,6 +117,8 @@ section h1 {
   transform: translate(-50%, -50%);
   border-radius: 10px;
   align-items: center;
+  text-decoration: none;
+  color: white;
 }
 
 .play {
